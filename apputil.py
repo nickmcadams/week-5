@@ -45,6 +45,7 @@ def survival_demographics():
 
     return results
 
+
 def visualize_demographic():
     """Visualize Titanic survival rates by class, sex, and age group."""
 
